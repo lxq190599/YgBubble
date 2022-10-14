@@ -7,7 +7,7 @@
 ## 使用指南
 ### 下载
 ```bash
-git clone https://github.com/Q1mi/bubble.git
+git clone https://github.com/lxq190599/YgBubble.git
 ```
 ### 配置MySQL
 1. 在你的数据库中执行以下命令，创建本项目所用的数据库：
